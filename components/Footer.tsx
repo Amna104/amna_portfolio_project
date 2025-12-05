@@ -149,7 +149,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center gap-2 md:gap-6">
              <p className="hover:text-cyan-300 transition-colors cursor-default">Designed & Built by Amna Arshad</p>
              <span className="hidden md:inline text-navy-600">|</span>
-             <p className="hover:text-cyan-300 transition-colors cursor-default">React • Tailwind CSS • Gemini AI</p>
+             {/* <p className="hover:text-cyan-300 transition-colors cursor-default">React • Tailwind CSS • Gemini AI</p> */}
           </div>
 
           <button 
